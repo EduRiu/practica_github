@@ -1,4 +1,4 @@
 # practica_github
-EDUARDO... espero que ande
  
-Fernando
+JoelG
+ahora espero que ande
